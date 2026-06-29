@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR3g0023/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3g0023/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 青囊奧語
+  date: '2015-08-24 23:12:12.408436'
+  source:
+    repository: kanripo
+    path: KR3g0023
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3g0023_000-WYG.yaml, hash: 'sha256:33d9080df716460eb9cddf3e4c181542cd7fd95250447db56495ffec364f6d04'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3g0023_000-WYG.markers.yaml, hash: 'sha256:70cdb99a68ede77923fd8e386a0930a2f180979866e2261469fa8f15c480bb3f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3g0023_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 473
+  label: 青囊奥語
+  type: section
+  level: 1
+hash: sha256:1795bcfb77e2013408a42225331890253175d015dfce891fdbb617bb6c2d0439

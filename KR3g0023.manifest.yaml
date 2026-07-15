@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3g0023/v1
 canonical_location: https://kanripo.org/bkk/KR3g0023/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 青囊奧語
   date: '2015-08-24 23:12:12.408436'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3g0023_000.yaml, hash: 'sha256:1e5e71aff7182a0ceab2f7beff172f858ee39af49c092c07e38c78146b518720'}
+  - {seq: 0, filename: KR3g0023_000.yaml, hash: 'sha256:cf8a1d821583fe70e581c68462e3a1ec12f462cf69a5b8c6ddb507ae309d329e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3g0023_000.markers.yaml, hash: 'sha256:ea7b6c1359f01995198796fb831198fcc972de1545b0db96877f15bd14e477a7'}
+  - {seq: 0, role: markers, filename: assets/KR3g0023_000.markers.yaml, hash: 'sha256:13ed6482d72e8abd86f44ed725f7e986e849ca92ac010c4f6fd79cea33d13516'}
 table_of_contents:
 - ref:
     seq: 0
@@ -34,4 +34,7 @@ table_of_contents:
   label: 青囊奥語
   type: section
   level: 1
-hash: sha256:8537eef76f34c2c0785c9b63f155205f2c27145519bfa80bd69e55544aa0f26d
+hash: sha256:d807f1a267fc94de27f8f0c3254787d2b704114d694f39a455ae2b78c964ac68
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
